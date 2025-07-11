@@ -6,7 +6,7 @@ import addOns from "./data/addOns";
 import emailjs from "emailjs-com"; // npm install emailjs-com
 
 const GINGR_SIGNUP_URL = "https://mollysdogcare.portal.gingrapp.com/#/public/new_customer";
-const STAFF_EMAIL = "gparks@mollysdogcare.com";
+// const STAFF_EMAIL = "gparks@mollysdogcare.com";
 const SHEET_WEBHOOK_URL = "YOUR_ZAPIER_WEBHOOK_URL"; // Replace with your Zapier webhook
 
 const mollysColors = {
